@@ -1,6 +1,5 @@
 String get header {
-  return '''// @dart = 2.10
-/// GENERATED CODE - DO NOT MODIFY BY HAND
+  return '''/// GENERATED CODE - DO NOT MODIFY BY HAND
 /// *****************************************************
 ///  FlutterGen
 /// *****************************************************
